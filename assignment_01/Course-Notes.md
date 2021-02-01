@@ -16,7 +16,35 @@ We discussed:
 
 ## My Notes, dervived from *Python for Data Analysis by Wes Mckinney*
 
-Python - is often called *scripting languages*, one can use to quickly write small programs to automake tasks. Python has become of the most importanat languages in acdemica and 
+Python - is often called *scripting languages*, one can use to quickly write small programs to automake tasks. Python has become of the most important languages in academia and 
          industry. Python is a popular choice for data analysis tasks and other discpline such as software engineering and data science. 
+         
+**Essential Python Libraries:**
+- *NumPY*
+- *pandas*
+- *matplotlib*
+- *IPython and Jupyter*
+- *SciPy*
+- *scikit-learn*
+- *statsmodels* 
+
+**Import Conventions:**
+
+import numpy as np
+import matplotib.pyplot as plt
+import pandas as pd 
+import seaborn as sns
+import statsmodels as sm
+
+**Jargon**
+
+- *Munge/munging/wrangling*
+- *Pseudocode*
+- *Syntactic sugar*
+
+# Chapter 2
+
+
+
          
 
