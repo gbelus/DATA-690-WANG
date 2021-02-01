@@ -43,6 +43,7 @@ import statsmodels as sm
 - *Syntactic sugar*
 
 # Chapter 2
+A link to [My Practice_01 Notebook on Deepnote](https://deepnote.com/project/a97d820f-899b-420b-ac2b-04e6e396a715#%2FPractice-01.ipynb)
 
 
 
