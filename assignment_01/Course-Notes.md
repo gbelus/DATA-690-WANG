@@ -29,13 +29,13 @@ Python - is often called *scripting languages*, one can use to quickly write sma
 - *statsmodels* 
 
 **Import Conventions:**
-
+```
 import numpy as np
 import matplotib.pyplot as plt
 import pandas as pd 
 import seaborn as sns
 import statsmodels as sm
-
+```
 **Jargon**
 
 - *Munge/munging/wrangling*
